@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63192" started-at="2019-07-05T07:51:36Z" finished-at="2019-07-05T07:52:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63192" started-at="2019-07-05T07:51:36Z" finished-at="2019-07-05T07:52:39Z">
+      <class name="ajio.login.TestSignupPage">
+        <test-method status="PASS" signature="f()[pri:0, instance:ajio.login.TestSignupPage@4fe3c938]" name="f" duration-ms="63128" started-at="2019-07-05T13:21:36Z" finished-at="2019-07-05T13:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="g()[pri:0, instance:ajio.login.TestSignupPage@4fe3c938]" name="g" is-config="true" duration-ms="48" started-at="2019-07-05T13:22:39Z" finished-at="2019-07-05T13:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+      </class> <!-- ajio.login.TestSignupPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

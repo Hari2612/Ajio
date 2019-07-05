@@ -1,0 +1,4 @@
+DeviceId=ZY223BLW3P
+version=7.0
+appPackage=com.ril.ajio
+appActivity=com.ril.ajio.view.home.HomeActivity
